@@ -1,0 +1,7 @@
+- Describe the three stages of database design using dot points.
+- Define "multivalued attributes" and "key constraint". Give examples of each one.
+- Give the names and symbols of the seven relation algebra operators.
+- State two similarities and differences between a clustered and unclustered index. 
+  In a table using a relation database, which column(s) is/are a clustered index most likely to be created on?
+- What are the advantages and disadvantages of all join plans?
+- State which types of database systems the terms ACID and BASE relate to, briefly explaining each of the terms the letters stand for.
